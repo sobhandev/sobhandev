@@ -1,4 +1,4 @@
-### Hi there 👋
+### - 🌱 I’m currently learning ...
 
 <!--
 **sobhandev/sobhandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
